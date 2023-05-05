@@ -2,6 +2,8 @@
 
 This is an Arkanoid game project that was developed as part of an Object-Oriented Programming course. The game contains several levels with increasing difficulty and is implemented in a GUI-friendly platform.
 
+![levelsPic](https://user-images.githubusercontent.com/106544582/236412545-1cbe13f0-4dd0-450b-b4f9-c1c2a5cd8055.png)
+
 ## Design Patterns
 
 ### Builder Design Pattern
